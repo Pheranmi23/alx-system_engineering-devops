@@ -1,0 +1,2 @@
+#!/bin/base
+find . -empty -printf %f'\n'
